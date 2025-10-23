@@ -1,4 +1,9 @@
 # Examen DVC et Dagshub
+
+Nom Prénom: CHHAY André
+Email : andre.chhay@gmail.com
+Lien vers le Dépôt DagsHub : [Lien vers DagsHub](https://dagshub.com/AndreChhay/examen-dvc)
+
 Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la solution de l'examen. 
 
 ```bash       
