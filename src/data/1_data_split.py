@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-
+import os
+os.makedirs("data/processed_data", exist_ok=True)
 URL= "https://datascientest-mlops.s3.eu-west-1.amazonaws.com/mlops_dvc_fr/raw.csv"
 
 df = pd.read_csv(URL)
