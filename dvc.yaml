@@ -43,4 +43,7 @@ stages:
     - models/gbr_model.pkl
     - src/models/5_evaluate.py
     outs:
-    - metrics/scores.json
+    - data/processed_data/predictions.csv
+    metrics:
+    - metrics/scores.json:
+        cache: false
